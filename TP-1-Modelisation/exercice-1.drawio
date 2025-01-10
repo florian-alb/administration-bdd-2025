@@ -476,8 +476,8 @@
         <mxCell id="2zNFN6GyW0OHNHu0MdLy-195" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Exercice 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="1600" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2zNFN6GyW0OHNHu0MdLy-196" value="Festival -&amp;gt; scènes -&amp;gt; lieu date et des artistes&lt;br&gt;personnes avec des roles&lt;br&gt;Billetterie avec des formules différentes et chaque formule à un prix et des spécs&lt;div&gt;points de restauration&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1620" width="340" height="110" as="geometry" />
+        <mxCell id="2zNFN6GyW0OHNHu0MdLy-196" value="Festival -&amp;gt; scènes -&amp;gt; lieu date et des artistes&lt;br&gt;personnes avec des roles&lt;br&gt;Billetterie avec des formules différentes et chaque formule à un prix et des spécs&lt;div&gt;points de restauration&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="1630" width="345" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2zNFN6GyW0OHNHu0MdLy-197" value="Festival" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="1750" width="140" height="120" as="geometry" />
