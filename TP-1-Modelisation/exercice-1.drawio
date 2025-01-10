@@ -429,7 +429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2zNFN6GyW0OHNHu0MdLy-168" value="Posséder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1390" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="1360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zNFN6GyW0OHNHu0MdLy-170" value="" style="endArrow=none;html=1;rounded=0;exitX=0.994;exitY=0.331;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2zNFN6GyW0OHNHu0MdLy-114" target="2zNFN6GyW0OHNHu0MdLy-167">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
