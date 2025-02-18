@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1266" dy="-397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="-311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -117,10 +117,10 @@
           <mxGeometry x="344" y="1200" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9mr5yLSks6lPNNkDvnGB-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Schéma logique Réseau&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="344" y="1705" width="140" height="30" as="geometry" />
+          <mxGeometry x="363" y="1754" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9mr5yLSks6lPNNkDvnGB-60" value="SEGMENTS(&lt;u&gt;NumeroEtage&lt;/u&gt;, NomEtage)&lt;div&gt;SALLES(&lt;u&gt;NumeroSalle&lt;/u&gt;,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NomSalle,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;numeroEtage#&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;POSTES(&lt;u&gt;AdresseIp&lt;/u&gt;, NomPoste, numeroSalle#, nomSalle#, nomSysExp#, versionSysExp#)&lt;/div&gt;&lt;div&gt;SYSTEMES_EXPLOITATION(&lt;u&gt;NomSysExp&lt;/u&gt;, &lt;u&gt;VersionSysExp&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;LOGICIELS(&lt;u&gt;NomLogiciel&lt;/u&gt;, &lt;u&gt;VersionLogiciel, PrixLogiciel&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;INSTALLATIONS(&lt;u&gt;&lt;b&gt; nomLogiciel#, versionLogiciel#, adresseIp#&lt;/b&gt;&lt;/u&gt;, DateIntallation)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="111" y="1760" width="509" height="110" as="geometry" />
+          <mxGeometry x="130" y="1809" width="509" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9mr5yLSks6lPNNkDvnGB-61" value="" style="line;strokeWidth=2;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650" y="1370" width="90" height="10" as="geometry" />
